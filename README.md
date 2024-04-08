@@ -18,7 +18,7 @@ In this project, I created an end-to-end data pipeline that moves the data from 
 The architecture (Data flow) used in this project uses different Azure functionalities.
 
 <p align="center">
-  <img width="950" height="550" src="https://github.com/MeetPalod/Azure-Medallion-Pipeline/blob/main/images/final%20pipeline.png">
+  <img width="950" height="550" src="https://github.com/MeetPalod/Azure-Medallion-Pipeline/blob/main/images/architecture.png">
 </p>
 
 With the combination of Azure Datalake and Azure Databricks, we can create a lakehouse architecture that follows three layer of data processing: 
